@@ -33,10 +33,13 @@ Question 3
 Imagine that you are participating in an image recognition competition and you want to use some publicly available set of images. Are you allowed to do this?
 
 *Correct Answer:*
+
 You need to check the competition rules
 
 Question 4
 ----------
 Which of these things we should take care about during competitions? Check all that apply.
+
 *Correct Answer:*
+
   Target metric value
